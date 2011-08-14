@@ -1,0 +1,24 @@
+dev-perl/Apache-AuthCookie
+
+  No stable version on CPAN
+
+  * 3.10
+
+    * keywords = "amd64 ia64 x86"
+
+    * No longer on CPAN
+
+    * On BackPAN
+
+    * on Gentoo
+
+
+  * 3.180
+
+    * keywords = "~amd64 ~ia64 ~x86"
+
+    * on CPAN
+
+    * on BackPAN
+
+    * on Gentoo
