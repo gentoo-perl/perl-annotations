@@ -1,6 +1,7 @@
 dev-perl/AnyEvent
 
   no stable versions on CPAN
+  new version 6.0.0 on CPAN
 
   * 5.2.5.1
 
@@ -19,3 +20,12 @@ dev-perl/AnyEvent
     * on CPAN
 
     * on BackPAN
+
+  * 6.0.0
+
+    * not on Gentoo
+
+    * on CPAN
+
+    * on BackPAN
+
