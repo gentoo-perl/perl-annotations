@@ -1,0 +1,24 @@
+dev-perl/Alien-wxWidgets
+
+  no stable versions on CPAN
+
+  * 0.47
+
+    * keywords = "amd64 x86 ~ia64"
+
+    * Not on CPAN
+
+    * on BackPAN
+
+    * on Gentoo
+
+  * 0.52
+
+    * keywords = "~amd64 ~ia64 ~x86"
+
+    * on CPAN
+
+    * on BackPAN
+
+    * on Gentoo
+

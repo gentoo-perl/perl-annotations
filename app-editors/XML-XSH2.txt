@@ -1,0 +1,46 @@
+app-editors/XML-XSH2
+
+  2.0.2 is no longer on CPAN 
+  No amd64-stable versions remaining on CPAN
+  No x86-stable versions.
+
+  * 2.0.2
+
+    * Not on CPAN
+
+    * keywords = "amd64 ~x86"
+
+    * still availble by sourceforge and gentoo mirrors.
+
+    * available from BackPAN
+
+  * 2.1.1
+    
+    * keywords = "~amd64 ~x86"
+
+    * On CPAN, Gentoo, BackPAN
+
+      * mirror://cpan/authors/id/P/PA/PAJAS/XML-XSH2-2.1.1.tar.gz
+
+    * Not on SourceForge.
+
+  * 2.1.2
+
+    * keywords = "~amd64 ~x86"
+
+    * On CPAN, Gentoo, BackPAN
+
+      * mirror://cpan/authors/id/P/PA/PAJAS/XML-XSH2-2.1.2.tar.gz
+
+    * Not on SourceForge.
+
+  * 2.1.3
+
+    * keywords = "~amd64 ~x86"
+  
+    * On CPAN, Gentoo, BackPAN
+
+      * mirror://cpan/authors/id/P/PA/PAJAS/XML-XSH2-2.1.3.tar.gz
+
+    * Not on SourceForge.
+

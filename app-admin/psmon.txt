@@ -1,0 +1,54 @@
+app-admin/psmon
+
+  Latest version 1.39 available only from gentoo
+  Latest version on CPAN is 1.29
+  Latest x86-stable ( 1.0.4 ) is not available from CPAN
+  Latest ppc-stable ( 1.0.4 ) is not available from CPAN
+  No amd64-stable
+ 
+  * 1.29 to 1.39 diff : https://gist.github.com/1144148
+
+  * 1.0.4 to 1.29 diff ( modified to remove binaries from diff ) https://gist.github.com/1144254
+  
+  * 1.39
+
+    * Available only on gentoo distfiles
+
+    * Keywords = "~amd64 ~ppc ~x86"
+
+    * 1.39 / 1.390.0 is not on any CPAN or BACKPAN
+
+    * http://www.psmon.com/psmon-1.39.tar.gz  is 404
+  
+    * All sourceforge mirrors 404 on 'psmon/psmon-1.39.tar.gz'
+
+  * 1.29
+
+    * Available via sourceforge, cpan and gentoo.
+
+    * Keywords = "~amd64 ~ppc ~x86"
+
+    * 1.29 / 1.290.0 is latest on CPAN
+
+    * http://www.psmon.com/psmon-1.29.tar.gz  is 404
+
+    * psmon/psmon-1.29.tar.gz is available on all Sourceforge mirrors.
+
+    * authors/id/N/NI/NICOLAW/psmon-1.29.tar.gz is available on all listed
+      CPAN mirrors ( and BACKPAN )
+
+  * 1.0.4
+    
+    * Available via Sourceforge and Gentoo only, 
+      not on CPAN.
+
+    * Keywords = "x86 ppc"
+
+    * http://www.psmon.com/psmon-1.0.4.tgz  is 404
+
+    * psmon/psmon-1.0.4.tgz is available on all Sourceforge mirrors.
+ 
+    * psmon-1.0.4.tgz is available on gentoo mirrors.
+
+    * authors/id/N/NI/NICOLAW/psmon-1.0.4.tgz does not exist on CPAN/BACKPAN
+

@@ -1,0 +1,46 @@
+dev-db/mytop
+
+  No versions in Portage on CPAN
+
+  * 1.4
+
+    * Not available from CPAN/BackPAN
+
+    * keywords = "alpha amd64 ppc sparc x86"
+
+    * Available at SRC_URI
+
+    * Available from Gentoo
+
+  * 1.6
+
+    * Not available from CPAN/BackPAN
+
+    * Available at SRC_URI
+
+    * Available from Gentoo
+
+    * 1.6
+
+      * keywords = "alpha amd64 ppc sparc x86"
+
+    * 1.6-r2
+
+      * keywords = "~alpha ~amd64 ~ppc ~sparc ~x86"
+
+    * 1.6-r3
+
+      * keywords = "alpha amd64 ppc sparc x86"
+
+  * 1.2
+    
+    * Not in portage
+
+    * latest on CPAN
+
+      * mirror://cpan/authors/id/J/JZ/JZAWODNY/mytop-1.2.tar.gz
+
+    * Available from jeremy.zawodny.com as
+
+      * http://jeremy.zawodny.com/mysql/mytop/mytop-1.2.tar.gz
+

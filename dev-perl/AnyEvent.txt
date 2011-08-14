@@ -1,0 +1,21 @@
+dev-perl/AnyEvent
+
+  no stable versions on CPAN
+
+  * 5.2.5.1
+
+    * keywords = "amd64 ppc ppc64 sparc x86 ~arm ~x86-solaris"
+
+    * not on CPAN
+
+    * on BackPAN
+
+    * on Gentoo
+
+  * 5.340.0
+
+    * keywords = "~amd64 ~arm ~ppc ~ppc64 ~sparc ~x86 ~x86-solaris"
+
+    * on CPAN
+
+    * on BackPAN

@@ -1,0 +1,33 @@
+dev-db/mtop
+
+  Only prior version 0.6.4 is available on CPAN
+  No stable version
+
+  * 0.6.6
+
+    * Not available from CPAN/BackPAN
+
+    * Available from Sourceforge
+
+    * Available from Gentoo
+
+    * 0.6.6-r1
+
+      * keywords = "~amd64 ~ppc ~x86"
+    
+    * 0.6.6
+      
+      * keywords = "~amd64 ~ppc ~x86"
+
+  * 0.6.4
+
+    * Available from CPAN/Backpan 
+
+      * mirror://cpan/authors/id/M/MP/MPREWITT/mtop/mtop-0.6.4.tar.gz
+
+    * Available from Sourceforge
+
+      * mirror://sourceforge/mtop/mtop-0.6.4.tar.gz
+
+    * Not available from Gentoo
+
